@@ -11,24 +11,10 @@ a{
 .text{
     margin: 20px 0px;
 }
-.fa-instagram{
+.fa{
     color: blue;
 }
-.fa-github{
-    color: blue;
-}
-.fa-google-plus{
-    color: blue;
-}
-.fa-facebook{
-    color: blue;
-}
-.fa-twitter{
-    color: blue;
-}
-.fa-pinterest-p{
-    color: blue;
-}
+
 .center-info{
     padding: 60px 10px;
     margin: 30px 0px;
